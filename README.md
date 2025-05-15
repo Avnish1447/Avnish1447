@@ -1,44 +1,47 @@
-## 📖 About Me
+## 📖 About Me  
+I’m **Avnish Agrawal**, a passionate engineering student specializing in Python, currently exploring API integrations, GUI development, and web development. I love building user-centric applications that solve real-world problems and continuously learning new technologies.
 
-I’m **Avnish Agrawal**, a passionate Engineering Student specializing in Python , currently exploring API integrations, GUI development, and Web Developement. I love building user-centric applications that solve real-world problems and continuously learning new technologies.
+## 🛠 Tech Stack  
+- **Languages:** Python, Java, SQL  
+- **Frameworks & Libraries:** Tkinter, CustomTkinter, Flask, Keras  
+- **Tools & Platforms:** Git, GitHub Actions, OpenWeatherMap API  
+- **Concepts:** API Integration, GUI Design, Machine Learning (CNNs), Web Scraping, Object-Oriented Programming
 
-## 🛠 Tech Stack
+## 🚀 Pinned Projects  
+### [Plant-Disease-Detection](https://github.com/Avnish1447/Plant-Disease-Detection)  
+A Flask web app that detects crop diseases from leaf images using a convolutional neural network trained on the PlantVillage dataset. Built with Keras, OpenCV & Flask, it lets users upload photos and get real-time predictions.
 
-* **Languages:** Python, Java, SQL
-* **Frameworks & Libraries:** Tkinter, CustomTkinter, 
-* **Tools & Platforms:** Git, GitHub Actions, OpenWeatherMap API 
-* **Concepts:** API Integration, GUI Design, Object-Oriented Programming 
+### [API-Integration](https://github.com/Avnish1447/API-Integration)  
+A command-line Python application that fetches and displays real-time weather data for any specified city using the OpenWeatherMap API. Showcases HTTP requests, JSON parsing, and robust error handling.
 
-## 🚀 Pinned Projects
+### [Data-Scraper](https://github.com/Avnish1447/Data-Scraper)  
+A desktop GUI tool built with CustomTkinter to scrape product titles and prices from Flipkart based on user search queries. Demonstrates web scraping techniques and GUI integration .
 
-### [API-Integration](https://github.com/Avnish1447/API-Integration)
+### [To-Do-Application](https://github.com/Avnish1447/To-Do-Application)  
+A Python-based task manager with Tkinter and CustomTkinter. Features include adding, deleting, and marking tasks as completed, with JSON-powered data persistence.
 
-A command-line Python app fetching real-time weather data from the OpenWeatherMap API. Demonstrates HTTP requests, JSON parsing, and error handling .
+## 🎓 Internship Experience  
+During my **Brainwave Matrix Solutions** internship, I:  
+- Developed interactive Python GUIs following best practices in user validation and feedback loops.  
+- Implemented secure authentication flows and transaction logging for real-world scenarios.  
+- Applied software design principles—modularity, error handling, and iterative improvement.
 
-### [To-Do-Application](https://github.com/Avnish1447/To-Do-Application)
+## 📈 GitHub Stats
 
-A desktop task manager built with Tkinter and CustomTkinter. Features task creation, deletion, completion toggles, and data persistence using JSON .
+![Avnish’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Avnish1447&show_icons=true&theme=radical)
 
-### [Brainwave\_Matrix\_Intern](https://github.com/Avnish1447/Brainwave_Matrix_Intern)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avnish1447&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Impact](https://github-readme-stats-academic.vercel.app/api/academic?username=Avnish1447)](https://github.com/EthanJamesLew/github-readme-stats-academic)  
+![trophy](https://github-profile-trophy.vercel.app/?username=Avnish1447&row=1&column=3)
 
-Internship portfolio showcasing two Python projects:
 
-* **ATM Interface:** Simulates banking operations (balance inquiry, deposits, withdrawals).
-* **Inventory Management System:** Manages products, tracks stock levels, and generates reports with secure authentication .
 
-## 🎓 Internship Experience
 
-During my time at **Brainwave Matrix Solutions**, I:
-
-* Developed interactive Python applications following best practices in GUI design and data validation .
-* Implemented secure user authentication and transaction logging.
-* Learned software design principles such as modularity, error handling, and user feedback loops .
-
-## 📫 Let’s Connect!
-
-* 🔗 [LinkedIn](https://www.linkedin.com/in/avnish-agrawal-84b39728a/)
-* ✉️ Email: `avnishagrawal1447@gmail.com`
-* ⭐️ Feel free to ⭐ any of my repositories you find interesting!
 
 ---
 
+## 📫 Let’s Connect!
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Avnish1447)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:avnishagrawal1447@gmail.com)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avnish-agrawal-84b39728a/)
+
+---
