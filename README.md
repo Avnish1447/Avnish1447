@@ -31,17 +31,16 @@ During my **Brainwave Matrix Solutions** internship, I:
 ![Avnish’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Avnish1447&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avnish1447&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Impact](https://github-readme-stats-academic.vercel.app/api/academic?username=Avnish1447)](https://github.com/EthanJamesLew/github-readme-stats-academic)  
+<!--[![GitHub Impact](https://github-readme-stats-academic.vercel.app/api/academic?username=Avnish1447)](https://github.com/EthanJamesLew/github-readme-stats-academic) -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=Avnish1447&row=1&column=3)
 
 
 
 
 
----
+
 
 ## 📫 Let’s Connect!
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Avnish1447)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:avnishagrawal1447@gmail.com)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avnish-agrawal-84b39728a/)
 
----
