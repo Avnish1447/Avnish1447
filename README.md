@@ -2,7 +2,7 @@
 I’m **Avnish Agrawal**, a passionate engineering student specializing in Python, currently exploring API integrations, GUI development, and web development. I love building user-centric applications that solve real-world problems and continuously learning new technologies.
 
 ## 🛠 Tech Stack  
-- **Languages:** Python, Java, SQL  
+- **Languages:** Python, Java, SQL, C++  
 - **Frameworks & Libraries:** Tkinter, CustomTkinter, Flask, Keras  
 - **Tools & Platforms:** Git, GitHub Actions, OpenWeatherMap API  
 - **Concepts:** API Integration, GUI Design, Machine Learning (CNNs), Web Scraping, Object-Oriented Programming
