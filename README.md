@@ -76,7 +76,7 @@ A desktop GUI tool built with CustomTkinter to scrape product titles and prices 
 - Built a Flipkart Product Scraper GUI that scrapes product titles and prices using `requests` and `BeautifulSoup`, based on user input.  
 - Strengthened hands-on skills in GUI development, API integration, and web scraping with direct mentorship.
 
-### <a href="https://www.linkedin.com/company/microsoft/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_200_200/B56ZYQ0mrGGoAM-/0/1744038948046/microsoft_logo?e=1756944000&v=beta&t=SrF7BixYPKNs304Mq9yuuAEJG7S7MaQ_i56dTRlv3QA" height="24" style="border-radius: 50%; margin-right: 8px; vertical-align: middle;"/></a> **Edunet Foundation (Microsoft AI & Azure Internship)** (May 2025 – Present)  
+### <a href="https://www.linkedin.com/company/microsoft/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_200_200/B56ZYQ0mrGGoAM-/0/1744038948046/microsoft_logo?e=1756944000&v=beta&t=SrF7BixYPKNs304Mq9yuuAEJG7S7MaQ_i56dTRlv3QA" height="24" style="border-radius: 50%; margin-right: 8px; vertical-align: middle;"/></a> **Edunet Foundation (Microsoft AI & Azure Internship)** (May 2025 – June 2025)  
 **Role:** AI & Azure Intern (Microsoft AI & Azure Internship Program)  
 - Participated in Microsoft-sponsored internship via Edunet Foundation focusing on AI, ML, Deep Learning, and Generative AI using Microsoft Learn.  
 - Gained hands-on experience through real-world AI projects and Azure cloud service integration.  
